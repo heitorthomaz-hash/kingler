@@ -1,0 +1,1 @@
+print("tô fazendo essa bomba")
